@@ -1,0 +1,2 @@
+# motorPredicMaintain-backend-insertAnalogData
+电机预测性维护项目：向MongoDB插入模拟数据
